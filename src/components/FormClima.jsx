@@ -4,7 +4,7 @@ import { Button, Col, Form, FormLabel, Row } from 'react-bootstrap';
 const FormClima = () => {
     return (
     <Form>
-            <Row className="p-4">
+        <Row className="p-4">
         <Col xs={3}>
           <FormLabel>Ubicación: </FormLabel>
         </Col>
